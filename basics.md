@@ -6,3 +6,5 @@
 * git commit--finalizes the changes to file from the stanging area to the git repository
 * git diff--shows the difference between commits
 * git log--displays the commit log (see how many versions you committed)
+* THE END
+
